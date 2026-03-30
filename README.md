@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on GitHub basics.
+I’m currently learning Computer Science and Web Development.
+⚡ Fun fact: I just merged my first pull request!
